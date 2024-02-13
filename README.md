@@ -1,8 +1,8 @@
 # Crowd Detection and Counting
 
 <p float="left">
-  <img src="https://i.imgur.com/fF0K9d1.jpeg" width="400" height="450"/>
-  <img src="https://i.imgur.com/qM04bur.jpeg" width="400" height="450"/> 
+  <img src="https://i.imgur.com/5XV0CFw.jpeg" width="400" height="450"/>
+  <img src="https://i.imgur.com/GUuLVRa.png" width="400" height="450"/> 
 </p>
 
 ## Overview
